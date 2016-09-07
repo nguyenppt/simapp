@@ -1,0 +1,57 @@
+============= Connection ===========
+driver_class = oracle.jdbc.driver.OracleDriver
+thinConn     	= jdbc:oracle:thin:@trungnguyen:1521:xe
+//thinConn     	= jdbc:oracle:thin:@btm.dyndns.ws:1522:btm10
+
+storeID     = 1101
+//username    = bsim_home
+//password    =  0293105Y032y025n035b110V067$082|
+//resourceFile=LabelsBundleSIM
+
+username    = bpos_home
+password    = 017k038y073?071E018a
+resourceFile=LabelsBundlePos
+
+
+============= Common ===============
+storeName = PHAN XICH LONG
+storeAddress = PHAN XICH LONG
+currencyID = VND
+
+
+=======
+//appHome = D:\Package\BPOS_HOME
+searchLimit=2000
+hierTypeSetup = 1v4
+errorFile=./file/Error.TXT
+
+============= SIM ==================
+hostID   = 1
+appHome = D:\ProJBuilder\BTMProductApp
+==Print PO
+companyName= CTY CP TM & DV NHA TOI
+companyAdr = 19-21 C20 Phan Xich Long, P.02, Q.Phu Nhuan
+companyTel = (08) 5172602/03
+companyFax = (08) 5172604
+companyVAT = 0304350253
+addrDelivery= 19-21 C20 Phan Xich Long
+addrBill = 19-21 C20 Phan Xich Long, P.02, Q.Phu Nhuan
+franchiseStore=false
+
+============= POS ==================
+registerID = 1
+observerAccount = deletor
+viewerAccount=viewer
+turnOffAcrobat = true
+acrobatFile=AcroRd32.exe
+delayBeforePrint=500
+delayAfterPrint=1000
+
+
+============= Batch job ============
+fetchSize = 3
+numOfStore = 2
+delay=100
+ftp_server=serverwin
+ftp_user=trung
+ftp_password=trung

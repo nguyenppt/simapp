@@ -1,0 +1,73 @@
+[PropertyInfo]
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+borderLayout2,BorderLayout,false,false, , ,false,<default>
+borderLayout3,BorderLayout,false,false, , ,false,<default>
+borderLayout4,BorderLayout,false,false, , ,false,<default>
+borderLayout5,BorderLayout,false,false, , ,false,<default>
+btnCancel,BJButton,false,false, , ,false,<default>
+btnDate,JButton,false,false, , ,false,<default>
+btnSearch,BJButton,false,false, , ,false,<default>
+cboCustomerType,JComboBox,false,false, , ,false,<default>
+cusBusObj,CustomerBusObj,false,false, , ,false,<default>
+DAL,DataAccessLayer,false,false, , ,false,<default>
+dm,SortableTableModel,false,false, , ,false,<default>
+done,boolean,false,false, , ,false,<default>
+flowLayout1,FlowLayout,false,false, , ,false,<default>
+flowLayout2,FlowLayout,false,false, , ,false,<default>
+flowLayout3,FlowLayout,false,false, , ,false,<default>
+flowLayout4,FlowLayout,false,false, , ,false,<default>
+flowLayout5,FlowLayout,false,false, , ,false,<default>
+frmMain,FrameMainSim,false,false, , ,false,<default>
+gridLayout1,GridLayout,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jLabel11,JLabel,false,false, , ,false,<default>
+jLabel110,JLabel,false,false, , ,false,<default>
+jLabel18,JLabel,false,false, , ,false,<default>
+jLabel19,JLabel,false,false, , ,false,<default>
+jLabel2,JLabel,false,false, , ,false,<default>
+jLabel20,JLabel,false,false, , ,false,<default>
+jLabel21,JLabel,false,false, , ,false,<default>
+jLabel3,JLabel,false,false, , ,false,<default>
+jLabel5,JLabel,false,false, , ,false,<default>
+jLabel6,JLabel,false,false, , ,false,<default>
+jLabel7,JLabel,false,false, , ,false,<default>
+jLabel9,JLabel,false,false, , ,false,<default>
+jPanel1,BJPanel,false,false, , ,false,<default>
+jPanel10,JPanel,false,false, , ,false,<default>
+jPanel11,JPanel,false,false, , ,false,<default>
+jPanel14,JPanel,false,false, , ,false,<default>
+jPanel2,JPanel,false,false, , ,false,<default>
+jPanel3,JPanel,false,false, , ,false,<default>
+jPanel4,JPanel,false,false, , ,false,<default>
+jPanel5,BJPanel,false,false, , ,false,<default>
+jPanel6,JPanel,false,false, , ,false,<default>
+jPanel7,JPanel,false,false, , ,false,<default>
+jPanel9,JPanel,false,false, , ,false,<default>
+jScrollPane1,JScrollPane,false,false, , ,false,<default>
+lang,ResourceBundle,false,false, , ,false,<default>
+lblName1,JLabel,false,false, , ,false,<default>
+lblName2,JLabel,false,false, , ,false,<default>
+lblName3,JLabel,false,false, , ,false,<default>
+lblRowLimit1,JLabel,false,false, , ,false,<default>
+parentScreen,int,false,false, , ,false,<default>
+rowsNum,int,false,false, , ,false,<default>
+stmt,Statement,false,false, , ,false,<default>
+table,BJTable,false,false, , ,false,<default>
+txtAbbrName,JTextField,false,false, , ,false,<default>
+txtAddress1,JTextField,false,false, , ,false,<default>
+txtBirthday,JTextField,false,false, , ,false,<default>
+txtCity,JTextField,false,false, , ,false,<default>
+txtContactName,JTextField,false,false, , ,false,<default>
+txtCountry,JTextField,false,false, , ,false,<default>
+txtCustomerID,JTextField,false,false, , ,false,<default>
+txtHomeNo,JTextField,false,false, , ,false,<default>
+txtMobileNo,JTextField,false,false, , ,false,<default>
+txtName,JTextField,false,false, , ,false,<default>
+txtRowLimit1,JTextField,false,false, , ,false,<default>
+txtWorkNo,JTextField,false,false, , ,false,<default>
+ut,Utils,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

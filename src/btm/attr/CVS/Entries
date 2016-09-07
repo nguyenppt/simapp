@@ -1,0 +1,22 @@
+/AccessRight.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/Customer.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/EmpRight.java/1.2/Mon Mar 16 08:17:51 2009/-kkv/
+/Employee.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/Item.java/1.2/Tue Jan 20 03:52:05 2009/-kkv/
+/ItemAttribute.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/ItemLocSupplier.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/ItemMaster.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/ObjEmpAccRight.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/ObjHier.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/ObjHierType.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/PosPaidInOutTable.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/PriceHist.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/ProductHierarchy.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/Role.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/RoleAccessRight.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/Season.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/StockOnHand.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/Store.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/Supplier.java/1.1.1.1/Fri Jan 16 02:01:02 2009/-kkv/
+/Transaction.java/1.2/Tue Jan 20 03:52:05 2009/-kkv/
+D

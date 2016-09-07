@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--JBuilder XML Project-->
+<project>
+<property category="debug.1" name="RemoteAttachArgumentNames.1" value="hostname"/>
+<property category="debug.1" name="RemoteAttachArgumentNames.2" value="port"/>
+<property category="debug.1" name="RemoteAttachArgumentValues.1" value="localhost"/>
+<property category="debug.1" name="RemoteAttachArgumentValues.2" value="3999"/>
+<property category="debug.1" name="RemoteAttachTransport" value="dt_socket"/>
+<property category="debug.1" name="RemoteLaunchTransport" value="dt_socket"/>
+<property category="generalFormatting2" name="overrideBasicFormatting" value="1"/>
+<property category="javaFormatting" name="packagePrefixGroups" value="java;javax;BLANK_LINE;java.awt;javax.swing;BLANK_LINE;org;(*)"/>
+<property category="javadoc" name="custom.tags.1" value="todo;a;To Do:"/>
+<property category="runtime" name="ConfigurationCount" value="1"/>
+<property category="runtime.0" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+<property category="runtime.0" name="ConfigurationName" value="Sim"/>
+<property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+<property category="runtime.0" name="application.class" value="sim.AppSim"/>
+<property category="runtime.1" name="BuildTargetOnRun" value="com.borland.jbuilder.build.ProjectBuilder$ProjectBuildAction;make"/>
+<property category="runtime.1" name="ConfigurationName" value="Pos"/>
+<property category="runtime.1" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner"/>
+<property category="runtime.1" name="application.class" value="pos.AppPos"/>
+<property category="runtime.1" name="custom.init_required" value="0"/>
+<property category="runtime.1" name="custom.jdk" value="java version 1.5.0_03-b07"/>
+<property category="runtime.1" name="custom.required.1" value="AdidasLib"/>
+<property category="runtime.1" name="enable.tcpmonitor" value="0"/>
+<property category="runtime.1" name="enable.wsimonitor" value="0"/>
+<property category="runtime.1" name="tcpmonitor.listenport" value=""/>
+<property category="runtime.1" name="tcpmonitor.targethost" value=""/>
+<property category="runtime.1" name="tcpmonitor.targetport" value=""/>
+<property category="runtime.1" name="wsimonitor.listenport" value=""/>
+<property category="runtime.1" name="wsimonitor.logfile" value=""/>
+<property category="runtime.1" name="wsimonitor.targethost" value=""/>
+<property category="runtime.1" name="wsimonitor.targetport" value=""/>
+<property category="serverservices" name="WarnedOfLegacyToCurrentServerChange" value="1"/>
+<property category="serverservices" name="disabled.services" value="connector;jdatastore"/>
+<property category="serverservices" name="single.server.name" value="Tomcat 4.0"/>
+<property category="sys" name="AuthorLabel" value="@author"/>
+<property category="sys" name="BackupPath" value="bak"/>
+<property category="sys" name="CheckStable" value="1"/>
+<property category="sys" name="Company" value=""/>
+<property category="sys" name="CompanyLabel" value="Company:"/>
+<property category="sys" name="Copyright" value="Copyright (c) 2005"/>
+<property category="sys" name="CopyrightLabel" value="Copyright:"/>
+<property category="sys" name="DefaultPath" value="src"/>
+<property category="sys" name="Description" value=""/>
+<property category="sys" name="DescriptionLabel" value="Description:"/>
+<property category="sys" name="DocPath" value="doc"/>
+<property category="sys" name="ExcludeClassEnabled" value="0"/>
+<property category="sys" name="IncludeTestPath" value="1"/>
+<property category="sys" name="InstanceVisibility" value="2"/>
+<property category="sys" name="JDK" value="java version 1.5.0_03-b07"/>
+<property category="sys" name="JvmVersion" value="1.2"/>
+<property category="sys" name="LastTag" value="0"/>
+<property category="sys" name="Libraries" value="HomeApp"/>
+<property category="sys" name="MakeStable" value="0"/>
+<property category="sys" name="OutPath" value="classes"/>
+<property category="sys" name="SourcePath" value="src;test"/>
+<property category="sys" name="TestPath" value="test"/>
+<property category="sys" name="Title" value=""/>
+<property category="sys" name="TitleLabel" value="Title:"/>
+<property category="sys" name="Version" value="1.0"/>
+<property category="sys" name="VersionLabel" value="@version"/>
+<property category="sys" name="WorkingDirectory" value="."/>
+<property category="sys" name="uidesign.size.pos.PanelRegisterClosedOut" value="666,463"/>
+<property category="sys" name="uidesign.size.sim.PanelExRateView" value="613,530"/>
+<property category="sys" name="uidesign.size.sim.PanelGoodsReceipt" value="753,552"/>
+<property category="sys" name="uidesign.size.sim.PanelItemSetup" value="887,593"/>
+<property category="sys" name="uidesign.size.sim.PanelOrgHierSetup" value="637,560"/>
+<property category="sys" name="uidesign.size.sim.PanelPrdHierSetup" value="750,571"/>
+<property category="sys" name="uidesign.size.sim.PanelTransferModifyDamageGoods" value="726,541"/>
+<property category="team" name="ignorePath.0" value="bak"/>
+<property category="team" name="ignorePath.1" value="doc"/>
+<property category="team" name="ignorePath.10" value="classes/package cache"/>
+<property category="team" name="ignorePath.11" value="classes/pos"/>
+<property category="team" name="ignorePath.12" value="classes/sim"/>
+<property category="team" name="ignorePath.13" value="classes"/>
+<property category="team" name="ignorePath.14" value="classes/pos"/>
+<property category="team" name="ignorePath.15" value="classes/sim"/>
+<property category="team" name="ignorePath.2" value=".localdata"/>
+<property category="team" name="ignorePath.3" value="src/btm"/>
+<property category="team" name="ignorePath.4" value="src/common"/>
+<property category="team" name="ignorePath.5" value="BSIMPOS.jpx.local~"/>
+<property category="team" name="ignorePath.6" value="BSIMPOS.jpx.local"/>
+<property category="team" name="ignorePath.7" value="classes/btm"/>
+<property category="team" name="ignorePath.8" value="classes/cache files"/>
+<property category="team" name="ignorePath.9" value="classes/common"/>
+<node name="Pos" type="Archive">
+<property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ApplicationArchiver"/>
+<property category="archiving" name="buildWithProject" value="0"/>
+<property category="archiving" name="contentRules.1" value="I:**/*.*"/>
+<property category="archiving" name="includeDeps" value="1"/>
+<property category="archiving" name="libraryStates.1" value="3:HomeApp"/>
+<property category="archiving" name="manifestConfigFile" value="1"/>
+<property category="archiving" name="manifestMainClass" value="pos.AppPos"/>
+<property category="archiving" name="obfuscator" value="RetroGuard for J2ME"/>
+<property category="archiving" name="targetCompressed" value="1"/>
+<property category="archiving" name="targetPath" value="D%|/Package/BPOS_HOME/jpos.jar"/>
+<property category="archiving" name="usingRules" value="1"/>
+</node>
+<node name="Sim" type="Archive">
+<property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.ApplicationArchiver"/>
+<property category="archiving" name="buildWithProject" value="0"/>
+<property category="archiving" name="contentRules.1" value="I:**/*.*"/>
+<property category="archiving" name="includeDeps" value="1"/>
+<property category="archiving" name="libraryStates.1" value="3:HomeApp"/>
+<property category="archiving" name="manifestConfigFile" value="0"/>
+<property category="archiving" name="manifestMainClass" value="sim.AppSim"/>
+<property category="archiving" name="targetCompressed" value="1"/>
+<property category="archiving" name="targetPath" value="D%|/Package/BSIM_HOME/jsim.jar"/>
+<property category="archiving" name="usingRules" value="1"/>
+</node>
+<file path="src/sim/FrameLogIn.java"/>
+</project>
